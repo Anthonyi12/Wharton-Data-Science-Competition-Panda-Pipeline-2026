@@ -1,9 +1,18 @@
-This github repository contains:
-- HockeyEDA 
-  - Notebook for our exploratory data analysis as well as our power ranking. This notebook also creates a few initial aggregated tables with feature engineering variables that we use in later notebooks. 
-- hockeyModelMAIN
-  - Notebook for our main 1st round prediction hockey model. 
-- Offense1v2Disp
-  - Notebook for our creating offensive team disparity.  
-- HockeyVisualizations
+# Wharton Hockey Project (Round 1)
+
+This github repository contains the notebooks used for exploratory analysis, feature engineering, modeling, and visualizations.
+
+## Contents
+
+### 1) `HockeyEDA`
+- Exploratory Data Analysis (EDA) as well as our power ranking. 
+- Creates initial aggregated tables with feature engineering variables that we use in later notebooks. 
+
+### 2) `hockeyModelMAIN`
+  - Main Round 1 prediction model notebook 
+
+### 3) `Offense1v2Disp`
+  - Notebook for our creating offensive team disparity (first line vs second line)
+
+### 4) HockeyVisualizations
   - Notebook for visualizing the correlation between power ranking and offensive team disparity. 
