@@ -1,1 +1,9 @@
-
+This github repository contains:
+- HockeyEDA 
+  - Notebook for our exploratory data analysis as well as our power ranking. This notebook also creates a few initial aggregated tables with feature engineering variables that we use in later notebooks. 
+- hockeyModelMAIN
+  - Notebook for our main 1st round prediction hockey model. 
+- Offense1v2Disp
+  - Notebook for our creating offensive team disparity.  
+- HockeyVisualizations
+  - Notebook for visualizing the correlation between power ranking and offensive team disparity. 
